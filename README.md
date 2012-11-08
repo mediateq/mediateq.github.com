@@ -1,2 +1,0 @@
-mediateq.github.com
-===================
