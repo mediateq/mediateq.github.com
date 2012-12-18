@@ -784,11 +784,12 @@ header p {
 #banner #logo {
   position: absolute;
   height: 36px;
-  width: 36px;
+  width: 45px;
   right: 7px;
   top: 7px;
   display: block;
-  background: url(../images/octocat-logo.png);
+  background: url("../images/logo.png");
+  background-repeat: no-repeat;
 }
 
 section {
